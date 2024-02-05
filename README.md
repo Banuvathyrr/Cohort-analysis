@@ -17,5 +17,5 @@ Column 5: Duration Day 7 (in seconds)
 ### Insights
 1.Average 'New users' and 'Returning users' across each day was found to be significantly different from each other as their mean and standard deviation were not overlapping each other.This shows that the number of New users was found to be significantly greater than the number of returning users every week.\
 2.Positive correlation exists between New users and Returning users. This indicates a potential trend of new users converting to returning users.\
-3.There seem to be no significant difference between the average user engagement on day 1 and day 7 when investigated across every week. Also there exist poor relationship between the user engagement on Day1 and Day7
-
+3.There seem to be no significant difference between the average user engagement on day 1 and day 7 when investigated across every week. Also there exist poor relationship between the user engagement on Day1 and Day7.  
+**Check this dashboard**: https://www.novypro.com/project/cohort-analysis-2
