@@ -1,4 +1,7 @@
 # Cohort-analysis
+
+![image](https://github.com/Banuvathyrr/Cohort-analysis-in-Python-and-Power-BI-dashboard/assets/145739539/cc17e132-a0b3-49d4-8ffb-b2f1a33c2e95)
+
 Cohort analysis is a type of analysis that focuses on understanding the behavior of a group of individuals who share a common characteristic over a specific period. The individuals in a cohort typically share a common characteristic or experience during a particular time frame, such as the month they joined a service, made their first purchase, or started using a product.
 
 In this data analysis project, the user engagement of new and returning users over every week was inspected. The dataset was loaded, explored for any inconsistencies, datatype mismatch, missing values etc. before doing exploratory data analysis. Correlation matrix and heatmaps were plotted to visualize the kind of relationship that exist between new users vs returning users, duration day 1 and day 7.
